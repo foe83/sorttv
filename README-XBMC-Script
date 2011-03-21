@@ -1,0 +1,21 @@
+This software is provided "as is" and has absolutely NO WARRANTY.
+Please use at your own risk!
+
+This is an eraly dev release: 
+the following features are known NOT to work at times
+and may overwrite your files!
+- running the script MIGHT NOT work correctly - I could not test it in linux and strawberry perl is causing problems in my windows machine, but the script SHOULD be loaded correctly
+- editing configuration WILL NOT save correctly and might overwrite sorttv.conf with a blank file
+- import configuration MIGHT NOT save correctly and might overwrite sorttv.conf with a blank file
+
+stable release TODO:
+- fix edit/import config file
+- fill credits.txt
+- change the back.png
+
+whishlist TODO:
+- find better solution for editing config file (without ControlList)
+- scheduling
+- add ability to run/configure script through smb share
+- add ability to install perl and related perl extensions (Windows only)
+- skinning

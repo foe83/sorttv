@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.sorttv"
+       name="SortTV"
+       version="0.0.6"
+       provider-name="see-credits-file">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <minversion>28764</minversion>
+    <summary lang="en">Automatically sorts new TV show episodes into an organised directory structure.</summary>
+    <description lang="en">Automatically sorts new TV show episodes into an organised directory structure. This provides the magic required to have your home theatre PC (HTPC) keep itself sorted out. You can combine this script with an automatic episode downloader, and this script can sort all of your new episodes, renaming them appropriately if you like. Tested on Linux and Windows. This is free open source software.</description>
+  </extension>
+</addon>

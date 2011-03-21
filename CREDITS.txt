@@ -1,0 +1,6 @@
+"# SortTV by Z. Cliffe Schreuders",
+"XBMC front-end by Alessandro Basso",
+"Contributing programmers:",
+"# {other code-contributors}",
+"# SortTV Icon based on a photo by: "Katy Warner, http://www.flickr.com/photos/sundazed/3736802927/#/",
+"# "This is free open source software (GPLv3 licensed)"
